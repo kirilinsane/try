@@ -53,3 +53,4 @@ const getData = async (cityName) => { // functioin for getting data
 console.log('Hi')
 console.log('you are noob')
 console.log('bitch')
+console.log('mad bro')
